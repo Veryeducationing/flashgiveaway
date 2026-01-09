@@ -106,6 +106,13 @@
       "type": "Game"
     },
     {
+      "location": "swfs/187.swf",
+      "title": "Papers Please",
+      "author": "Lucas Pope",
+      "authorLink": "https://papersplea.se/",
+      "type": "Game"
+    },
+    {
       "location": "swfs/wasted_sky.swf",
       "title": "Wasted Sky",
       "author": "Tom Fulp",
